@@ -1,4 +1,4 @@
-# jZone--ProjectJJY--public
+# GitHub/jZone--ProjectJJY--public
 
 Joint research Project for JJY with titech and NICT (global open area)
 
