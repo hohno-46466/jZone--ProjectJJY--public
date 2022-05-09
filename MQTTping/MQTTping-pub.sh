@@ -8,4 +8,5 @@ HOST=${1-"broker.hivemq.com"}
 TOPIC=${2-"$USER/MQTTping1"}
 
 # while [ 1 ]; do date +%s.%6N; sleep 0.9; done | valve -l 1s | linets -Z6 | linets -e6 | mosquitto_pub -l -t $TOPIC -h $HOST
-(seq 0 1 99; x=100; while [ 1 ]; do echo $x; x=$(($x + 1)); sleep 1; done ) | valve -l 1s | linets -Z6 | linets -e6 | mosquitto_pub -l -t $TOPIC -h $HOST
+# (seq 1 1 9; x=10; while [ 1 ]; do echo $x; x=$(($x + 1)); sleep 1; done ) | linets -Z6 | linets -e6 | mosquitto_pub -l -t $TOPIC -h $HOST
+(seq 1 1 9; x=10; while [ 1 ]; do echo $x; x=$(($x + 1)); sleep 1; done ) | valve -l 1s | linets -Z6 | linets -e6 | mosquitto_pub -l -t $TOPIC -h $HOST
