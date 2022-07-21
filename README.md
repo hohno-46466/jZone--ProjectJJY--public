@@ -13,6 +13,6 @@ Joint research Project for JJY with titech and NICT (global open area)
      1 directory, 5 files (Wed Jul 20 06:41:24 JST 2022)
 
 
-Note: url = git@github.com:hohno-46466/jZone--ProjectJJY--public.git
-
 Note: url = https://github.com/hohno-46466/jZone--ProjectJJY--public
+
+Note: url = git@github.com:hohno-46466/jZone--ProjectJJY--public.git
