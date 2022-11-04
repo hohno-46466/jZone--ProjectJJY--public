@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # MQTTping-pub.sh
-# Prev update: Wed Apr 27 16:44:01 JST 2022 by @hohno_at_kuimc
-# Last update: Fri Apr 29 08:51:01 JST 2022
+# Prev updated: Wed Apr 27 16:44:01 JST 2022 by @hohno_at_kuimc
+# Last updated: Fri Apr 29 08:51:01 JST 2022
 
 HOST=${1-"broker.hivemq.com"}
 TOPIC=${2-"$USER/MQTTping1"}
