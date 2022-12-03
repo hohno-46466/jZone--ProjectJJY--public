@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # MQTTping-sub.sh
-# Last updated: Wed Apr 27 16:44:35 JST 2022 by @hohno_at_kuimc
+# Last update: Wed Apr 27 16:44:35 JST 2022 by @hohno_at_kuimc
 
 HOST=${1-"broker.hivemq.com"}
 TOPIC=${2-"$USER/MQTTping1"}
