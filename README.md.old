@@ -12,7 +12,7 @@ Joint research Project for JJY with titech and NICT (global open area)
      ├──  README.md
      └──  README.md.old
      
-     1 directory, 7 files (Sun Nov 13 11:09:33 JST 2022)
+     1 directory, 7 files (Sat Nov 19 06:26:52 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/jZone--ProjectJJY--public
